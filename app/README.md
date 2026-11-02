@@ -1,0 +1,1 @@
+chúng tôi không chia train , datapreprocessing ... Ra riêng mà viết chung 1 file notebook.

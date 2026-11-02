@@ -1,0 +1,14 @@
+student_id,age,gender,major,study_hours_per_day,social_media_hours,netflix_hours,part_time_job,attendance_percentage,sleep_hours,diet_quality,exercise_frequency,parental_education_level,internet_quality,mental_health_rating,extracurricular_participation,previous_gpa,semester,stress_level,dropout_risk,social_activity,screen_time,study_environment,access_to_tutoring,family_income_range,parental_support_level,motivation_level,exam_anxiety_score,learning_style,time_management_score,exam_score
+100000,26,Male,Computer Science,7.64536653374835,3.0,0.1,Yes,70.3,6.2,Poor,3,Some College,High,6.0,Yes,4.0,5,5.8,No,0,10.9,Co-Learning Group,Yes,High,9,7,8,Reading,3.0,100
+100001,28,Male,Arts,5.7,0.5,0.4,No,88.4,7.2,Good,4,PhD,Low,6.8,No,4.0,7,5.8,No,5,8.3,Co-Learning Group,Yes,Low,7,2,10,Reading,6.0,99
+100002,17,Male,Arts,2.4,4.2,0.7,No,82.1,9.2,Good,4,High School,Low,5.7,Yes,3.79,4,8.0,No,5,8.0,Library,Yes,High,3,9,6,Kinesthetic,7.6,98
+100003,27,Other,Psychology,3.4,4.6,2.3,Yes,79.3,4.2,Fair,3,Master,Medium,8.5,Yes,4.0,6,4.6,No,3,11.7,Co-Learning Group,Yes,Low,5,3,10,Reading,3.2,100
+100004,25,Female,Business,4.7,0.8,2.7,Yes,62.9,6.5,Good,6,PhD,Low,9.2,No,4.0,4,5.7,No,2,9.4,Quiet Room,Yes,Medium,9,1,10,Reading,7.1,98
+100005,17,Female,Engineering,4.2,0.5,2.5,No,49.2,9.2,Good,3,PhD,High,9.2,Yes,4.0,3,1.5,No,2,8.9,Quiet Room,No,High,1,10,5,Visual,3.9,94
+100006,19,Male,Psychology,4.1,2.4,2.2,Yes,97.9,8.5,Good,6,Some College,High,5.8,No,4.0,2,2.5,No,3,9.2,Dorm,Yes,High,5,7,8,Kinesthetic,10.0,97
+100007,17,Male,Psychology,4.1,3.2,0.9,No,44.3,7.4,Fair,5,Master,High,4.8,Yes,3.3,2,5.3,No,3,10.0,Co-Learning Group,Yes,Low,9,3,10,Kinesthetic,7.5,84
+100008,28,Female,Psychology,0.6,0.3,2.6,Yes,64.2,7.6,Fair,0,High School,Medium,3.5,No,2.61,2,4.0,No,3,4.8,Library,No,Low,4,4,10,Kinesthetic,5.8,70
+100009,19,Male,Engineering,5.2,1.1,1.6,Yes,40.1,7.2,Fair,6,Master,Low,5.9,Yes,3.78,2,3.3,No,1,8.0,Cafe,Yes,Medium,7,9,6,Auditory,7.0,100
+100010,16,Other,Arts,0,2.7,0.2,No,44.1,6.9,Poor,2,Some College,High,7.8,Yes,4.0,1,3.7,No,3,3.9,Co-Learning Group,Yes,Medium,2,10,5,Visual,3.2,100
+
+Link tải dataset : 
